@@ -1,4 +1,3 @@
-# Number-Guessing-Game-Python-
 import random
 
 print("Welcome to Number Guessing Game!")
